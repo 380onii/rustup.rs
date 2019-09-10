@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am 380onii on github.
+  * I am omega3 (https://keybase.io/omega3) on keybase.
+  * I have a public key ASChGmoKNZeh3YfxL2qY7Hogxloex87FVXJREtChc82QFQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206fe10dac84c1a294f088b4efa346593bf3c5da3aed8b29496584ef230329ffaa0a",
+      "host": "keybase.io",
+      "kid": "0120a11a6a0a3597a1dd87f12f6a98ec7a20c65a1ec7cec555725112d0a173cd90150a",
+      "uid": "27a77f49fd908494422c415f88d61619",
+      "username": "omega3"
+    },
+    "merkle_root": {
+      "ctime": 1568111795,
+      "hash": "dd0afe9d759b6585b725eb3fca7149acb31c530abbf22b3c7589e2b9d7660c96f6d2b2d21ca741a3c4f84999646f08c2f66368fc62fb1ccce428380aba8bc1ae",
+      "hash_meta": "cb41f69521e64094e814b0939d896128f0d64c3679ff65cd2c8af87ba8859a84",
+      "seqno": 6376375
+    },
+    "service": {
+      "entropy": "sX8eluTfSV4ARSeI9kUdIzJ9",
+      "name": "github",
+      "username": "380onii"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568111808,
+  "expire_in": 504576000,
+  "prev": "b51f6b0b1f2fc74f0d53f3ee63fb424dfcca0421a15cf1c536fd702cf4ddb090",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASChGmoKNZeh3YfxL2qY7Hogxloex87FVXJREtChc82QFQo](https://keybase.io/omega3), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoRpqCjWXod2H8S9qmOx6IMZaHsfOxVVyURLQoXPNkBUKp3BheWxvYWTESpcCDsQgtR9rCx8vx08NU/PuY/tCTfzKBCGhXPHFNv1wLPTdsJDEIPXzqUcXShaDb6WMZODlm+OhyPcK0HgkZAGkI6P6O5h4AgHCo3NpZ8RAWAapZNaSq1MNeqSr4OGxgB+4reJhQyE2gnY/62WtpQSvDIX8ILv6gOWFBTHm+dpP2hyIBeUr+h8ppy45wP2VD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICQ3R8sJD9mpiZI6WjzFiS9zx1KqtmJUZpK8zxFsnDX1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/omega3
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id omega3
+```
